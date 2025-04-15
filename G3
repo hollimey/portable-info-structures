@@ -8,6 +8,6 @@
 
 "information_story" : "Apple users can easily access important and/or relevant water information in one localized area of other similar environmental data, i.e. the Weather app.",
 
-"possible_information_structure" : "program that reads in government csv files on water data and processes them for human readability"
+"possible_information_structure" : "Program that reads in government csv files on water data and processes them for human readability. The information is displayed within a dashboard as a widget for each piece of data like water surface temperature and water quality."
   
 }
