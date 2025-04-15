@@ -1,0 +1,13 @@
+{
+  
+idea_rank: int,
+
+idea_name: string,
+
+idea_summary: string,
+
+information_story: string,
+
+possible_information_structure: string
+  
+}
