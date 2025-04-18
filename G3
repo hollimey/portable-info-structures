@@ -6,8 +6,8 @@
 
 "idea_summary" : "The Apple Weather app contains a variety of information like air quality, temperature, sunrise and sunset times, waning gibbous, and severe weather notices like fires and floods. To enhance the app's functionality and user experience we aim to integrate water data into the application to bring important real-time environmental information to users. This could include water quality, surface water temperature, tides, and potentially more.",
 
-"information_story" : "Apple users can easily access important and/or relevant water information in one localized area of other similar environmental data, i.e. the Weather app.",
+"information_story" : "Collecting csv datasets of environmental data like water height, temperature, and flow from public water gages from NOAA, King County, and any other public databases. Then inputting datasets into a Jupyter Notebook to aggregate the different datasets into one comprehensive dataset covering all of Washington at least. The dataset will be visualized in an app widget, showing the different variables over time on a graph.",
 
-"possible_information_structure" : "Program that reads in government csv files on water data and processes them for human readability. The information is displayed within a dashboard as a widget for each piece of data like water surface temperature and water quality."
+"possible_information_structure" : "GIS file of all environmental data overlaid on a map"
   
 }
