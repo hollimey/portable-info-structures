@@ -9,4 +9,4 @@ Within the repository are two folders labeled Assignments and Final Overview.
 + The Final Overview folder holds a Presentation file, a .....
   + The Data Extraction Code file contains code used to download and reformat the existing information structure into a dashboard application table.
 
-Data source: insert link
+Data source: https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt
