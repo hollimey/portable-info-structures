@@ -41,4 +41,4 @@ There are 22 columns in the information structure.
 <br/>
 
 > [!TIP]
-> Please see "CO-OPS_9444900_wl.csv" file for an example similar to the information structure presesnted here.
+> Please see "G8_CO-OPS_9444900_wl.csv" file in the Example Structure folder for an example similar to the information structure presesnted here.
