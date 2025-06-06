@@ -16,7 +16,7 @@ US tide data- https://tidesandcurrents.noaa.gov/map/
 Datasets, for now, are manually downloaded per day from the NOAA's water station webpages. The datasets are then uploaded into code for processing, cleaning, and visualization. As datasets get verified, the newly verified data will take priority over "preliminary" and "predicted" data. Our maintenance process will consist of re-uploading verified datasets after release, in case users wish to look at past data. We will also only be keeping 2 weeks and 1 day worth of data, for the current data and the week before and week after. This reduces storage needs and eases maintenance needs. Thus, future data will come from the predicted column and past data will either be preliminary or verified. 
 
 ## Access
-1. Download tidal datasets and python code script from github repository.
+1. Download datasets and python code script from github repository.
 2. Input desired datasets for date range of examination into Flask App.
 3. Run Flask App.
 4. Run python script in Flask App.
@@ -41,4 +41,4 @@ There are 22 columns in the information structure.
 <br/>
 
 > [!TIP]
-> Please see "G8_CO-OPS_9444900_wl.csv" file in the Example Structure folder for an example similar to the information structure presesnted here.
+> Please follow these [code instructions](portable-info-structures/final-overview/code/readme.md) to view the data structure. Or, for a more simplified approach, you can also view a similar example of the information structure [here](portable-info-structures/assignments/example-structure/G8_CO-OPS_9444900_wl.csv).
