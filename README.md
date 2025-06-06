@@ -1,12 +1,13 @@
 # Course Project 
-**Created by Selena Pol and Holli Meyers**, at the University of Washington. </br>
+**Created by Selena Pol and Holli Meyers**, at the University of Washington. </br></br>
 
-The repository contains a new, proposed portable information structure. We have presented the resulting structure as a product for Apple's IOS Weather app.
+## Overview
+The repository contains a new, proposed portable information structure. We have presented the resulting structure as a product for Apple's IOS Weather app. With the plans of integrating the new structure into an already established system, we have extrated the existing information from the National Oceanic and Atmospheric Administration (NOAA), and restructured it to contain the most relevant information for Apple and its users.
+
+Within the repository contains an Assignments and Deliverable folder.
 
 
-Create a new information ‘product’ by extracting, transforming and restructuring existing information into one appropriate for a new information story with a focus on Portability. Use Github for code and other artifacts.
 
-This repository on portable information structures contains an 
 
 code used to download and convert the structure and any code or processes for exposing the data as a website or API
 
