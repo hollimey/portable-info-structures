@@ -1,10 +1,12 @@
 # Data Collection
-The repository Code subfolder within the Final Overview folder contains an application used to extract and transform the data from NOAA, to better format and visualize the information system for use by Apple's IOS Weather app. </br></br>
+The repository code subfolder within the final-overview folder contains an application used to extract and transform the data from NOAA, to better format and visualize the information system for use in Apple's IOS Weather app. <br/>
+
+The application displays a real-time marine and coastal observation table from buoy stations operated by NOAA, other government agencies, universities, and research institutions. These observations are compiled through NOAA's National Data Buoy Center. <br/><br/>
 
 ## Application Instructions
 > [!IMPORTANT]
 > The following instructions are for Windows users. Be sure to change the necessary information to match your operating system.
-</br>
+<br/>
 
 1. Download the noaa.py file and save into a designated file folder.
    - Example- _myproject_
@@ -27,4 +29,4 @@ The repository Code subfolder within the Final Overview folder contains an appli
     - _pip install flask pandas requests_
 11. Run the application.
     - _flask run_
-12. Navigate to the link provided in your Command Prompt. From there you can view the date and manurally refresh the page to see if any new real-time updates have occurred. 
+12. Navigate to the link provided in your Command Prompt. From there you can view the data and manurally refresh the page to see if any new real-time updates have occurred. 
