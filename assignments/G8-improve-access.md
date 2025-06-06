@@ -41,4 +41,5 @@ There are 22 columns in the information structure.
 <br/>
 
 > [!TIP]
-> Please follow these [code instructions](final-overview/code/readme.md) to view the data structure. Or, for a more simplified approach, you can also find a similar example of the information structure [here](example-structure/G8_CO-OPS_9444900_wl.csv).
+> Please follow the code instructions here to view the data structure: https://github.com/hollimey/portable-info-structures/tree/main/final-overview/code </br>
+>  Or, for a more simplified approach, you can also find a similar example of the information structure [here](example-structure/G8_CO-OPS_9444900_wl.csv).
