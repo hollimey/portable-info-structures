@@ -42,4 +42,4 @@ There are 22 columns in the information structure.
 
 > [!TIP]
 > Please follow the code instructions here to view the data structure: https://github.com/hollimey/portable-info-structures/tree/main/final-overview/code </br>
->  Or, for a more simplified approach, you can also find a similar example of the information structure [here](example-structure/G8_CO-OPS_9444900_wl.csv).
+>  Or, for a more simplified approach, you can also find a similar example of the information structure [here](https://github.com/hollimey/portable-info-structures/blob/main/assignments/example-structure/G8_CO-OPS_9444900_wl.csv).
