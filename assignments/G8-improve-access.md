@@ -6,12 +6,6 @@ Data guide- https://www.ndbc.noaa.gov/docs/ndbc_web_data_guide.pdf <br/>
 Latest observation list (lat/long included)- https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt <br/>
 Data descriptions- https://www.ndbc.noaa.gov/faq/measdes.shtml
 
-#### Other sources not used but helpful:
-Real time data file list- https://www.ndbc.noaa.gov/data/realtime2/ <br/>
-Global monitoring data map- https://viz.pmel.noaa.gov/osmc/?color_by=platform_type&platform_code=PTAW1 <br/>
-US (plus some global) buoy data map- https://www.ndbc.noaa.gov/ <br/>
-US tide data- https://tidesandcurrents.noaa.gov/map/
-
 ## Methodology
 Datasets, for now, are manually downloaded per day from the NOAA's water station webpages. The datasets are then uploaded into code for processing, cleaning, and visualization. As datasets get verified, the newly verified data will take priority over "preliminary" and "predicted" data. Our maintenance process will consist of re-uploading verified datasets after release, in case users wish to look at past data. We will also only be keeping 2 weeks and 1 day worth of data, for the current data and the week before and week after. This reduces storage needs and eases maintenance needs. Thus, future data will come from the predicted column and past data will either be preliminary or verified. 
 
