@@ -7,6 +7,5 @@ The repository contains a new, proposed portable information structure. We have 
 Within the repository are two folders labeled Assignments and Final Overview.
 + The Assignments folder holds 8 prior course assignments (from G2-G9) that has helped shape this project.
 + The Final Overview folder holds a Presentation file and a Code subfolder.
-  + The Data Extraction Code file contains code used to download and reformat the existing information structure into a dashboard application table.
 
 Data source: https://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt
