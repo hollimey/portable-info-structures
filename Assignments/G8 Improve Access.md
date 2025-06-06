@@ -41,4 +41,4 @@ There are 22 columns in the information structure.
 <br/>
 
 > [!TIP]
-> Please follow these [code instructions](Final Overview/Code) to view the data structure. Or, for a more simplified approach, you can also view a similar example of the information structure [here](portable-info-structures/assignments/example-structure/G8_CO-OPS_9444900_wl.csv).
+> Please follow these [code instructions](portable-info-structures/final-overview/code) to view the data structure. Or, for a more simplified approach, you can also find a similar example of the information structure [here](portable-info-structures/assignments/example-structure/G8_CO-OPS_9444900_wl.csv).
